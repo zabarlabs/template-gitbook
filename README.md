@@ -39,6 +39,7 @@ git push -u origin master
 * **homepage**: la URL donde estará alojado nuestro proyecto.
 
 6. Ahora debemos instalar los plugins que hemos incluido en el archivo `book.json`
+
 `gitbook install`
 
 7. Vamos a introducir nuestro contenido mediante un editor que facilite la escritura de archivos de tipo Markdown. En mi caso voy a utilizar **VS Code**, que ademas nos permite un Live Preview de como se va viendo nuestros documentos.
