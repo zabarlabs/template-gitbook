@@ -1,5 +1,11 @@
 {
-    "plugins": [
-        "theme-faq"
-    ]
+  "plugins": ["back-to-top-button", "hints", "copy-code-button", "youtube"],
+  "pluginsConfig": {
+    "hints": {
+      "info": "fa fa-info-circle",
+      "tip": "fa fa-mortar-board",
+      "danger": "fa fa-exclamation-circle",
+      "working": "fa fa-wrench"
+    }
+  }
 }
